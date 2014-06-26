@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\LoopTheLoop\LoopTheLoop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\LoopTheLoop\LoopTheLoop\obj\x86\Debug\LoopTheLoop.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\LoopTheLoop\LoopTheLoop\obj\x86\Debug\LoopTheLoop.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\LoopTheLoop\LoopTheLoop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\LoopTheLoop\LoopTheLoop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\LoopTheLoop\LoopTheLoop\bin\Debug\LoopTheLoop.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\LoopTheLoop\LoopTheLoop\bin\Debug\LoopTheLoop.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\LoopTheLoop\LoopTheLoop\bin\Debug\LoopTheLoop.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\LoopTheLoop\LoopTheLoop\obj\x86\Debug\LoopTheLoop.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\LoopTheLoop\LoopTheLoop\obj\x86\Debug\LoopTheLoop.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\LoopTheLoop\LoopTheLoop\obj\x86\Debug\LoopTheLoop.pdb

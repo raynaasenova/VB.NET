@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\3if_C\3if_C\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\3if_C\3if_C\obj\x86\Debug\_3if_C.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\3if_C\3if_C\obj\x86\Debug\_3if_C.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\3if_C\3if_C\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\3if_C\3if_C\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\3if_C\3if_C\bin\Debug\3if_C.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\3if_C\3if_C\bin\Debug\3if_C.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\3if_C\3if_C\obj\x86\Debug\3if_C.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\3if_C\3if_C\obj\x86\Debug\3if_C.pdb

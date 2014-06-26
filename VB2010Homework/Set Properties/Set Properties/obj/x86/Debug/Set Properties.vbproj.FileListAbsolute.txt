@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Set Properties\Set Properties\bin\Debug\Set Properties.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Set Properties\Set Properties\bin\Debug\Set Properties.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Set Properties\Set Properties\bin\Debug\Set Properties.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Set Properties\Set Properties\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Set Properties\Set Properties\obj\x86\Debug\Set_Properties.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Set Properties\Set Properties\obj\x86\Debug\Set_Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Set Properties\Set Properties\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Set Properties\Set Properties\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Set Properties\Set Properties\obj\x86\Debug\Set Properties.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Set Properties\Set Properties\obj\x86\Debug\Set Properties.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Set Properties\Set Properties\obj\x86\Debug\Set Properties.pdb

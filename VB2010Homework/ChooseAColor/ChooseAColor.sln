@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ChooseAColor", "ChooseAColor\ChooseAColor.vbproj", "{6BE30F00-3699-4494-AB46-8B5579C8C48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE30F00-3699-4494-AB46-8B5579C8C48B}.Debug|x86.ActiveCfg = Debug|x86
+		{6BE30F00-3699-4494-AB46-8B5579C8C48B}.Debug|x86.Build.0 = Debug|x86
+		{6BE30F00-3699-4494-AB46-8B5579C8C48B}.Release|x86.ActiveCfg = Release|x86
+		{6BE30F00-3699-4494-AB46-8B5579C8C48B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

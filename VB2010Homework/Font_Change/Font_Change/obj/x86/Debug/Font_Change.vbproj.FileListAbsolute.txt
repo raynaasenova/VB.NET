@@ -1,0 +1,9 @@
+D:\zaZapis\R_VBA\Raya_cours\Font_Change\Font_Change\bin\Debug\Font_Change.exe
+D:\zaZapis\R_VBA\Raya_cours\Font_Change\Font_Change\bin\Debug\Font_Change.pdb
+D:\zaZapis\R_VBA\Raya_cours\Font_Change\Font_Change\bin\Debug\Font_Change.xml
+D:\zaZapis\R_VBA\Raya_cours\Font_Change\Font_Change\obj\x86\Debug\Font_Change.Form1.resources
+D:\zaZapis\R_VBA\Raya_cours\Font_Change\Font_Change\obj\x86\Debug\Font_Change.Resources.resources
+D:\zaZapis\R_VBA\Raya_cours\Font_Change\Font_Change\obj\x86\Debug\Font_Change.vbproj.GenerateResource.Cache
+D:\zaZapis\R_VBA\Raya_cours\Font_Change\Font_Change\obj\x86\Debug\Font_Change.exe
+D:\zaZapis\R_VBA\Raya_cours\Font_Change\Font_Change\obj\x86\Debug\Font_Change.xml
+D:\zaZapis\R_VBA\Raya_cours\Font_Change\Font_Change\obj\x86\Debug\Font_Change.pdb

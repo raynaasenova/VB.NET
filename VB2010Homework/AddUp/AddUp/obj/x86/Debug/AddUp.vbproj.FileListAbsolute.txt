@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\AddUp\AddUp\bin\Debug\AddUp.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\AddUp\AddUp\bin\Debug\AddUp.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\AddUp\AddUp\bin\Debug\AddUp.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\AddUp\AddUp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\AddUp\AddUp\obj\x86\Debug\AddUp.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\AddUp\AddUp\obj\x86\Debug\AddUp.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\AddUp\AddUp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\AddUp\AddUp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\AddUp\AddUp\obj\x86\Debug\AddUp.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\AddUp\AddUp\obj\x86\Debug\AddUp.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\AddUp\AddUp\obj\x86\Debug\AddUp.pdb

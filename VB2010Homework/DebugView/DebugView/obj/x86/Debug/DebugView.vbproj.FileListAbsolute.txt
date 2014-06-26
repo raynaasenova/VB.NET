@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit01_files\DebugView\DebugView\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit01_files\DebugView\DebugView\obj\x86\Debug\DebugView.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit01_files\DebugView\DebugView\obj\x86\Debug\DebugView.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit01_files\DebugView\DebugView\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit01_files\DebugView\DebugView\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit01_files\DebugView\DebugView\bin\Debug\DebugView.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit01_files\DebugView\DebugView\bin\Debug\DebugView.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit01_files\DebugView\DebugView\bin\Debug\DebugView.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit01_files\DebugView\DebugView\obj\x86\Debug\DebugView.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit01_files\DebugView\DebugView\obj\x86\Debug\DebugView.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit01_files\DebugView\DebugView\obj\x86\Debug\DebugView.pdb

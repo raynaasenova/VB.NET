@@ -1,0 +1,26 @@
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\04_proveit02_solution\Pizza Price\Pizza Price\bin\Debug\Pizza Price.exe
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\04_proveit02_solution\Pizza Price\Pizza Price\bin\Debug\Pizza Price.pdb
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\04_proveit02_solution\Pizza Price\Pizza Price\bin\Debug\Pizza Price.xml
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\04_proveit02_solution\Pizza Price\Pizza Price\obj\Debug\ResolveAssemblyReference.cache
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\04_proveit02_solution\Pizza Price\Pizza Price\obj\Debug\Pizza_Price.Resources.resources
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\04_proveit02_solution\Pizza Price\Pizza Price\obj\Debug\Pizza Price.vbproj.GenerateResource.Cache
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\04_proveit02_solution\Pizza Price\Pizza Price\obj\Debug\Pizza Price.exe
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\04_proveit02_solution\Pizza Price\Pizza Price\obj\Debug\Pizza Price.xml
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\04_proveit02_solution\Pizza Price\Pizza Price\obj\Debug\Pizza Price.pdb
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\04_proveit02_instructions\Pizza Price\Pizza Price\obj\Debug\Pizza Price.exe
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\04_proveit02_instructions\Pizza Price\Pizza Price\obj\Debug\Pizza Price.xml
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\04_proveit02_instructions\Pizza Price\Pizza Price\obj\Debug\Pizza Price.pdb
+C:\Users\Jacqueline\Desktop\2010 CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\04_proveit02_files\Pizza Price\obj\Debug\Pizza Price.exe
+C:\Users\Jacqueline\Desktop\2010 CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\04_proveit02_files\Pizza Price\obj\Debug\Pizza Price.xml
+C:\Users\Jacqueline\Desktop\2010 CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\04_proveit02_files\Pizza Price\obj\Debug\Pizza Price.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\04_proveit02_files\Pizza Price\obj\Debug\Pizza Price.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\04_proveit02_files\Pizza Price\obj\Debug\Pizza Price.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\04_proveit02_files\Pizza Price\obj\Debug\Pizza Price.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\04_proveit02_files\Pizza Price\bin\Debug\Pizza Price.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\04_proveit02_files\Pizza Price\bin\Debug\Pizza Price.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\04_proveit02_files\Pizza Price\bin\Debug\Pizza Price.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\04_proveit02_files\Pizza Price\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\04_proveit02_files\Pizza Price\obj\Debug\Pizza_Price.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\04_proveit02_files\Pizza Price\obj\Debug\Pizza_Price.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\04_proveit02_files\Pizza Price\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\04_proveit02_files\Pizza Price\obj\Debug\GenerateResource.write.1.tlog

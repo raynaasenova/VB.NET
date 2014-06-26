@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Frog_R\Frog_R\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Frog_R\Frog_R\obj\x86\Debug\Frog_R.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Frog_R\Frog_R\obj\x86\Debug\Frog_R.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Frog_R\Frog_R\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Frog_R\Frog_R\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Frog_R\Frog_R\bin\Debug\Frog_R.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Frog_R\Frog_R\bin\Debug\Frog_R.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Frog_R\Frog_R\bin\Debug\Frog_R.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Frog_R\Frog_R\obj\x86\Debug\Frog_R.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Frog_R\Frog_R\obj\x86\Debug\Frog_R.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Frog_R\Frog_R\obj\x86\Debug\Frog_R.pdb

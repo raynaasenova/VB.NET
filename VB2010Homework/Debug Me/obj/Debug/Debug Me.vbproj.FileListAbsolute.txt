@@ -1,0 +1,27 @@
+C:\Documents and Settings\Dessy\Local Settings\Application Data\Temporary Projects\Debug Me\bin\Debug\Debug Me.exe
+C:\Documents and Settings\Dessy\Local Settings\Application Data\Temporary Projects\Debug Me\bin\Debug\Debug Me.pdb
+C:\Documents and Settings\Dessy\Local Settings\Application Data\Temporary Projects\Debug Me\bin\Debug\Debug Me.xml
+C:\Documents and Settings\Dessy\Local Settings\Application Data\Temporary Projects\Debug Me\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dessy\Local Settings\Application Data\Temporary Projects\Debug Me\obj\Debug\Debug_Me.Form1.resources
+C:\Documents and Settings\Dessy\Local Settings\Application Data\Temporary Projects\Debug Me\obj\Debug\Debug_Me.Resources.resources
+C:\Documents and Settings\Dessy\Local Settings\Application Data\Temporary Projects\Debug Me\obj\Debug\Debug Me.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Dessy\Local Settings\Application Data\Temporary Projects\Debug Me\obj\Debug\Debug Me.exe
+C:\Documents and Settings\Dessy\Local Settings\Application Data\Temporary Projects\Debug Me\obj\Debug\Debug Me.xml
+C:\Documents and Settings\Dessy\Local Settings\Application Data\Temporary Projects\Debug Me\obj\Debug\Debug Me.pdb
+G:\Code Rules 2008\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\07_proveit02_instructions\Debug Me\Debug Me\obj\Debug\Debug Me.exe
+G:\Code Rules 2008\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\07_proveit02_instructions\Debug Me\Debug Me\obj\Debug\Debug Me.xml
+G:\Code Rules 2008\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\07_proveit02_instructions\Debug Me\Debug Me\obj\Debug\Debug Me.pdb
+C:\Users\Jacqueline\Desktop\2010 CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\07_proveit02_files\Debug Me\Debug Me\obj\Debug\Debug Me.exe
+C:\Users\Jacqueline\Desktop\2010 CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\07_proveit02_files\Debug Me\Debug Me\obj\Debug\Debug Me.xml
+C:\Users\Jacqueline\Desktop\2010 CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\07_proveit02_files\Debug Me\Debug Me\obj\Debug\Debug Me.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit02_files\Debug Me\obj\Debug\Debug Me.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit02_files\Debug Me\obj\Debug\Debug Me.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit02_files\Debug Me\obj\Debug\Debug Me.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit02_files\Debug Me\bin\Debug\Debug Me.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit02_files\Debug Me\bin\Debug\Debug Me.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit02_files\Debug Me\bin\Debug\Debug Me.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit02_files\Debug Me\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit02_files\Debug Me\obj\Debug\Debug_Me.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit02_files\Debug Me\obj\Debug\Debug_Me.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit02_files\Debug Me\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_proveit02_files\Debug Me\obj\Debug\GenerateResource.write.1.tlog

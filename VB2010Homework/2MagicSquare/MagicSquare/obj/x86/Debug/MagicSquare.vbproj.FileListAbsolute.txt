@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit02_files\MagicSquare\MagicSquare\bin\Debug\MagicSquare.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit02_files\MagicSquare\MagicSquare\bin\Debug\MagicSquare.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit02_files\MagicSquare\MagicSquare\bin\Debug\MagicSquare.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit02_files\MagicSquare\MagicSquare\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit02_files\MagicSquare\MagicSquare\obj\x86\Debug\MagicSquare.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit02_files\MagicSquare\MagicSquare\obj\x86\Debug\MagicSquare.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit02_files\MagicSquare\MagicSquare\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit02_files\MagicSquare\MagicSquare\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit02_files\MagicSquare\MagicSquare\obj\x86\Debug\MagicSquare.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit02_files\MagicSquare\MagicSquare\obj\x86\Debug\MagicSquare.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit02_files\MagicSquare\MagicSquare\obj\x86\Debug\MagicSquare.pdb

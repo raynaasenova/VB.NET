@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ReadProperties\ReadProperties\bin\Debug\ReadProperties.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ReadProperties\ReadProperties\bin\Debug\ReadProperties.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ReadProperties\ReadProperties\bin\Debug\ReadProperties.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ReadProperties\ReadProperties\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ReadProperties\ReadProperties\obj\x86\Debug\ReadProperties.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ReadProperties\ReadProperties\obj\x86\Debug\ReadProperties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ReadProperties\ReadProperties\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ReadProperties\ReadProperties\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ReadProperties\ReadProperties\obj\x86\Debug\ReadProperties.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ReadProperties\ReadProperties\obj\x86\Debug\ReadProperties.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ReadProperties\ReadProperties\obj\x86\Debug\ReadProperties.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit02_files\ReadProperties\ReadProperties\obj\x86\Debug\ReadProperties.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit02_files\ReadProperties\ReadProperties\obj\x86\Debug\ReadProperties.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit02_files\ReadProperties\ReadProperties\obj\x86\Debug\ReadProperties.pdb

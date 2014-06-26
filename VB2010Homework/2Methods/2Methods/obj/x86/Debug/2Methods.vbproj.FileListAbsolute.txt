@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\2Methods\2Methods\bin\Debug\2Methods.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\2Methods\2Methods\bin\Debug\2Methods.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\2Methods\2Methods\bin\Debug\2Methods.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\2Methods\2Methods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\2Methods\2Methods\obj\x86\Debug\_2Methods.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\2Methods\2Methods\obj\x86\Debug\_2Methods.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\2Methods\2Methods\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\2Methods\2Methods\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\2Methods\2Methods\obj\x86\Debug\2Methods.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\2Methods\2Methods\obj\x86\Debug\2Methods.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\2Methods\2Methods\obj\x86\Debug\2Methods.pdb

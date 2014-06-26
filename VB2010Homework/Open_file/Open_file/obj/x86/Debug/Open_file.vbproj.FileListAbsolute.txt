@@ -1,0 +1,11 @@
+D:\R_VBA\Raya_cours\Open_file\Open_file\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\R_VBA\Raya_cours\Open_file\Open_file\obj\x86\Debug\Open_file.Form1.resources
+D:\R_VBA\Raya_cours\Open_file\Open_file\obj\x86\Debug\Open_file.Resources.resources
+D:\R_VBA\Raya_cours\Open_file\Open_file\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\R_VBA\Raya_cours\Open_file\Open_file\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\R_VBA\Raya_cours\Open_file\Open_file\bin\Debug\Open_file.exe
+D:\R_VBA\Raya_cours\Open_file\Open_file\bin\Debug\Open_file.pdb
+D:\R_VBA\Raya_cours\Open_file\Open_file\bin\Debug\Open_file.xml
+D:\R_VBA\Raya_cours\Open_file\Open_file\obj\x86\Debug\Open_file.exe
+D:\R_VBA\Raya_cours\Open_file\Open_file\obj\x86\Debug\Open_file.xml
+D:\R_VBA\Raya_cours\Open_file\Open_file\obj\x86\Debug\Open_file.pdb

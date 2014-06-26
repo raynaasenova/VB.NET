@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_challenge_files\Celkulate_Capacity\Celkulate_Capacity\bin\Debug\Celkulate_Capacity.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_challenge_files\Celkulate_Capacity\Celkulate_Capacity\bin\Debug\Celkulate_Capacity.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_challenge_files\Celkulate_Capacity\Celkulate_Capacity\bin\Debug\Celkulate_Capacity.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_challenge_files\Celkulate_Capacity\Celkulate_Capacity\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_challenge_files\Celkulate_Capacity\Celkulate_Capacity\obj\x86\Debug\Celkulate_Capacity.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_challenge_files\Celkulate_Capacity\Celkulate_Capacity\obj\x86\Debug\Celkulate_Capacity.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_challenge_files\Celkulate_Capacity\Celkulate_Capacity\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_challenge_files\Celkulate_Capacity\Celkulate_Capacity\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_challenge_files\Celkulate_Capacity\Celkulate_Capacity\obj\x86\Debug\Celkulate_Capacity.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_challenge_files\Celkulate_Capacity\Celkulate_Capacity\obj\x86\Debug\Celkulate_Capacity.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\07_challenge_files\Celkulate_Capacity\Celkulate_Capacity\obj\x86\Debug\Celkulate_Capacity.pdb

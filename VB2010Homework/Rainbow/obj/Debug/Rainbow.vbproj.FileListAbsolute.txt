@@ -1,0 +1,23 @@
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\05_proveit01_solution\Rainbow\Rainbow\bin\Debug\Rainbow.exe
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\05_proveit01_solution\Rainbow\Rainbow\bin\Debug\Rainbow.pdb
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\05_proveit01_solution\Rainbow\Rainbow\bin\Debug\Rainbow.xml
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\05_proveit01_solution\Rainbow\Rainbow\obj\Debug\ResolveAssemblyReference.cache
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\05_proveit01_solution\Rainbow\Rainbow\obj\Debug\Rainbow.Resources.resources
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\05_proveit01_solution\Rainbow\Rainbow\obj\Debug\Rainbow.vbproj.GenerateResource.Cache
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\05_proveit01_solution\Rainbow\Rainbow\obj\Debug\Rainbow.exe
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\05_proveit01_solution\Rainbow\Rainbow\obj\Debug\Rainbow.xml
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\05_proveit01_solution\Rainbow\Rainbow\obj\Debug\Rainbow.pdb
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\05_proveit01_instructions\Rainbow\Rainbow\obj\Debug\Rainbow.exe
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\05_proveit01_instructions\Rainbow\Rainbow\obj\Debug\Rainbow.xml
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\05_proveit01_instructions\Rainbow\Rainbow\obj\Debug\Rainbow.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit01_files\Rainbow\obj\Debug\Rainbow.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit01_files\Rainbow\obj\Debug\Rainbow.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit01_files\Rainbow\obj\Debug\Rainbow.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit01_files\Rainbow\bin\Debug\Rainbow.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit01_files\Rainbow\bin\Debug\Rainbow.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit01_files\Rainbow\bin\Debug\Rainbow.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit01_files\Rainbow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit01_files\Rainbow\obj\Debug\Rainbow.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit01_files\Rainbow\obj\Debug\Rainbow.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit01_files\Rainbow\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\05_proveit01_files\Rainbow\obj\Debug\GenerateResource.write.1.tlog

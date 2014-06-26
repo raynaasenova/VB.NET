@@ -1,0 +1,11 @@
+D:\R_VBA\Raya_cours\SimpleSub\SimpleSub\bin\Debug\SimpleSub.exe
+D:\R_VBA\Raya_cours\SimpleSub\SimpleSub\bin\Debug\SimpleSub.pdb
+D:\R_VBA\Raya_cours\SimpleSub\SimpleSub\bin\Debug\SimpleSub.xml
+D:\R_VBA\Raya_cours\SimpleSub\SimpleSub\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\R_VBA\Raya_cours\SimpleSub\SimpleSub\obj\x86\Debug\SimpleSub.Form1.resources
+D:\R_VBA\Raya_cours\SimpleSub\SimpleSub\obj\x86\Debug\SimpleSub.Resources.resources
+D:\R_VBA\Raya_cours\SimpleSub\SimpleSub\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\R_VBA\Raya_cours\SimpleSub\SimpleSub\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\R_VBA\Raya_cours\SimpleSub\SimpleSub\obj\x86\Debug\SimpleSub.exe
+D:\R_VBA\Raya_cours\SimpleSub\SimpleSub\obj\x86\Debug\SimpleSub.xml
+D:\R_VBA\Raya_cours\SimpleSub\SimpleSub\obj\x86\Debug\SimpleSub.pdb

@@ -1,0 +1,4 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\2if_c\2if_c\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\2if_c\2if_c\obj\x86\Debug\_2if_c.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\2if_c\2if_c\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\2if_c\2if_c\obj\x86\Debug\GenerateResource.write.1.tlog

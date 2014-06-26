@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ForNextTwo\ForNextTwo\bin\Debug\ForNextTwo.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ForNextTwo\ForNextTwo\bin\Debug\ForNextTwo.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ForNextTwo\ForNextTwo\bin\Debug\ForNextTwo.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ForNextTwo\ForNextTwo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ForNextTwo\ForNextTwo\obj\x86\Debug\ForNextTwo.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ForNextTwo\ForNextTwo\obj\x86\Debug\ForNextTwo.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ForNextTwo\ForNextTwo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ForNextTwo\ForNextTwo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ForNextTwo\ForNextTwo\obj\x86\Debug\ForNextTwo.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ForNextTwo\ForNextTwo\obj\x86\Debug\ForNextTwo.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\ForNextTwo\ForNextTwo\obj\x86\Debug\ForNextTwo.pdb

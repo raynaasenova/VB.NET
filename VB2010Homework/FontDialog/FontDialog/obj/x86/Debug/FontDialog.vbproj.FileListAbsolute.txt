@@ -1,0 +1,9 @@
+D:\zaZapis\R_VBA\Raya_cours\FontDialog\FontDialog\obj\x86\Debug\FontDialog.Form1.resources
+D:\zaZapis\R_VBA\Raya_cours\FontDialog\FontDialog\obj\x86\Debug\FontDialog.Resources.resources
+D:\zaZapis\R_VBA\Raya_cours\FontDialog\FontDialog\obj\x86\Debug\FontDialog.vbproj.GenerateResource.Cache
+D:\zaZapis\R_VBA\Raya_cours\FontDialog\FontDialog\bin\Debug\FontDialog.exe
+D:\zaZapis\R_VBA\Raya_cours\FontDialog\FontDialog\bin\Debug\FontDialog.pdb
+D:\zaZapis\R_VBA\Raya_cours\FontDialog\FontDialog\bin\Debug\FontDialog.xml
+D:\zaZapis\R_VBA\Raya_cours\FontDialog\FontDialog\obj\x86\Debug\FontDialog.exe
+D:\zaZapis\R_VBA\Raya_cours\FontDialog\FontDialog\obj\x86\Debug\FontDialog.xml
+D:\zaZapis\R_VBA\Raya_cours\FontDialog\FontDialog\obj\x86\Debug\FontDialog.pdb

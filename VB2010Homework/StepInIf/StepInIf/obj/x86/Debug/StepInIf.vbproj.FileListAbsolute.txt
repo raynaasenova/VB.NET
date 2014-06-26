@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\StepInIf\StepInIf\bin\Debug\StepInIf.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\StepInIf\StepInIf\bin\Debug\StepInIf.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\StepInIf\StepInIf\bin\Debug\StepInIf.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\StepInIf\StepInIf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\StepInIf\StepInIf\obj\x86\Debug\StepInIf.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\StepInIf\StepInIf\obj\x86\Debug\StepInIf.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\StepInIf\StepInIf\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\StepInIf\StepInIf\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\StepInIf\StepInIf\obj\x86\Debug\StepInIf.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\StepInIf\StepInIf\obj\x86\Debug\StepInIf.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\StepInIf\StepInIf\obj\x86\Debug\StepInIf.pdb

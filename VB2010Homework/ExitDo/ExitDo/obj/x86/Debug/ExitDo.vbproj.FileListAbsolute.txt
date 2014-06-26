@@ -1,0 +1,11 @@
+D:\R_VBA\Raya_cours\11_proveit01_files\ExitDo\ExitDo\bin\Debug\ExitDo.exe
+D:\R_VBA\Raya_cours\11_proveit01_files\ExitDo\ExitDo\bin\Debug\ExitDo.pdb
+D:\R_VBA\Raya_cours\11_proveit01_files\ExitDo\ExitDo\bin\Debug\ExitDo.xml
+D:\R_VBA\Raya_cours\11_proveit01_files\ExitDo\ExitDo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\R_VBA\Raya_cours\11_proveit01_files\ExitDo\ExitDo\obj\x86\Debug\ExitDo.Form1.resources
+D:\R_VBA\Raya_cours\11_proveit01_files\ExitDo\ExitDo\obj\x86\Debug\ExitDo.Resources.resources
+D:\R_VBA\Raya_cours\11_proveit01_files\ExitDo\ExitDo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\R_VBA\Raya_cours\11_proveit01_files\ExitDo\ExitDo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\R_VBA\Raya_cours\11_proveit01_files\ExitDo\ExitDo\obj\x86\Debug\ExitDo.exe
+D:\R_VBA\Raya_cours\11_proveit01_files\ExitDo\ExitDo\obj\x86\Debug\ExitDo.xml
+D:\R_VBA\Raya_cours\11_proveit01_files\ExitDo\ExitDo\obj\x86\Debug\ExitDo.pdb

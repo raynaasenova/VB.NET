@@ -1,0 +1,11 @@
+D:\R_VBA\Raya_cours\UnitsCalculator\UnitsCalculator\bin\Debug\UnitsCalculator.exe
+D:\R_VBA\Raya_cours\UnitsCalculator\UnitsCalculator\bin\Debug\UnitsCalculator.pdb
+D:\R_VBA\Raya_cours\UnitsCalculator\UnitsCalculator\bin\Debug\UnitsCalculator.xml
+D:\R_VBA\Raya_cours\UnitsCalculator\UnitsCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\R_VBA\Raya_cours\UnitsCalculator\UnitsCalculator\obj\x86\Debug\UnitsCalculator.Form1.resources
+D:\R_VBA\Raya_cours\UnitsCalculator\UnitsCalculator\obj\x86\Debug\UnitsCalculator.Resources.resources
+D:\R_VBA\Raya_cours\UnitsCalculator\UnitsCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\R_VBA\Raya_cours\UnitsCalculator\UnitsCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\R_VBA\Raya_cours\UnitsCalculator\UnitsCalculator\obj\x86\Debug\UnitsCalculator.exe
+D:\R_VBA\Raya_cours\UnitsCalculator\UnitsCalculator\obj\x86\Debug\UnitsCalculator.xml
+D:\R_VBA\Raya_cours\UnitsCalculator\UnitsCalculator\obj\x86\Debug\UnitsCalculator.pdb

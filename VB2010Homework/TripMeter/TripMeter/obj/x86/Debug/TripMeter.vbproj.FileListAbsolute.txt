@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\TripMeter\TripMeter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\TripMeter\TripMeter\obj\x86\Debug\TripMeter.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\TripMeter\TripMeter\obj\x86\Debug\TripMeter.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\TripMeter\TripMeter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\TripMeter\TripMeter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\TripMeter\TripMeter\bin\Debug\TripMeter.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\TripMeter\TripMeter\bin\Debug\TripMeter.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\TripMeter\TripMeter\bin\Debug\TripMeter.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\TripMeter\TripMeter\obj\x86\Debug\TripMeter.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\TripMeter\TripMeter\obj\x86\Debug\TripMeter.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\TripMeter\TripMeter\obj\x86\Debug\TripMeter.pdb

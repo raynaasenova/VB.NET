@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\TotalButtonClicks\TotalButtonClicks\bin\Debug\TotalButtonClicks.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\TotalButtonClicks\TotalButtonClicks\bin\Debug\TotalButtonClicks.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\TotalButtonClicks\TotalButtonClicks\bin\Debug\TotalButtonClicks.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\TotalButtonClicks\TotalButtonClicks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\TotalButtonClicks\TotalButtonClicks\obj\x86\Debug\TotalButtonClicks.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\TotalButtonClicks\TotalButtonClicks\obj\x86\Debug\TotalButtonClicks.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\TotalButtonClicks\TotalButtonClicks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\TotalButtonClicks\TotalButtonClicks\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\TotalButtonClicks\TotalButtonClicks\obj\x86\Debug\TotalButtonClicks.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\TotalButtonClicks\TotalButtonClicks\obj\x86\Debug\TotalButtonClicks.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\TotalButtonClicks\TotalButtonClicks\obj\x86\Debug\TotalButtonClicks.pdb

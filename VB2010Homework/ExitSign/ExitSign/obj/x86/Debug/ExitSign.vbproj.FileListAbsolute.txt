@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\ExitSign\ExitSign\bin\Debug\ExitSign.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\ExitSign\ExitSign\bin\Debug\ExitSign.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\ExitSign\ExitSign\bin\Debug\ExitSign.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\ExitSign\ExitSign\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\ExitSign\ExitSign\obj\x86\Debug\ExitSign.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\ExitSign\ExitSign\obj\x86\Debug\ExitSign.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\ExitSign\ExitSign\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\ExitSign\ExitSign\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\ExitSign\ExitSign\obj\x86\Debug\ExitSign.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\ExitSign\ExitSign\obj\x86\Debug\ExitSign.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\10_proveit01_files\ExitSign\ExitSign\obj\x86\Debug\ExitSign.pdb

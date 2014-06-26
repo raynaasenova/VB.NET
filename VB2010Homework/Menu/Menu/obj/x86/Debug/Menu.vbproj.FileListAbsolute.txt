@@ -1,0 +1,9 @@
+D:\zaZapis\R_VBA\Raya_cours\Menu\Menu\bin\Debug\Menu.exe
+D:\zaZapis\R_VBA\Raya_cours\Menu\Menu\bin\Debug\Menu.pdb
+D:\zaZapis\R_VBA\Raya_cours\Menu\Menu\bin\Debug\Menu.xml
+D:\zaZapis\R_VBA\Raya_cours\Menu\Menu\obj\x86\Debug\Menu.Form1.resources
+D:\zaZapis\R_VBA\Raya_cours\Menu\Menu\obj\x86\Debug\Menu.Resources.resources
+D:\zaZapis\R_VBA\Raya_cours\Menu\Menu\obj\x86\Debug\Menu.vbproj.GenerateResource.Cache
+D:\zaZapis\R_VBA\Raya_cours\Menu\Menu\obj\x86\Debug\Menu.exe
+D:\zaZapis\R_VBA\Raya_cours\Menu\Menu\obj\x86\Debug\Menu.xml
+D:\zaZapis\R_VBA\Raya_cours\Menu\Menu\obj\x86\Debug\Menu.pdb

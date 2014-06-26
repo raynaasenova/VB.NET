@@ -1,0 +1,11 @@
+D:\R_VBA\Raya_cours\LoopsInAction\LoopsInAction\bin\Debug\LoopsInAction.exe
+D:\R_VBA\Raya_cours\LoopsInAction\LoopsInAction\bin\Debug\LoopsInAction.pdb
+D:\R_VBA\Raya_cours\LoopsInAction\LoopsInAction\bin\Debug\LoopsInAction.xml
+D:\R_VBA\Raya_cours\LoopsInAction\LoopsInAction\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\R_VBA\Raya_cours\LoopsInAction\LoopsInAction\obj\x86\Debug\LoopsInAction.Form1.resources
+D:\R_VBA\Raya_cours\LoopsInAction\LoopsInAction\obj\x86\Debug\LoopsInAction.Resources.resources
+D:\R_VBA\Raya_cours\LoopsInAction\LoopsInAction\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\R_VBA\Raya_cours\LoopsInAction\LoopsInAction\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\R_VBA\Raya_cours\LoopsInAction\LoopsInAction\obj\x86\Debug\LoopsInAction.exe
+D:\R_VBA\Raya_cours\LoopsInAction\LoopsInAction\obj\x86\Debug\LoopsInAction.xml
+D:\R_VBA\Raya_cours\LoopsInAction\LoopsInAction\obj\x86\Debug\LoopsInAction.pdb

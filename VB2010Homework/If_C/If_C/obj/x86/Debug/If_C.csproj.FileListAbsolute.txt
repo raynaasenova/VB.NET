@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\If_C\If_C\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\If_C\If_C\obj\x86\Debug\If_C.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\If_C\If_C\obj\x86\Debug\If_C.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\If_C\If_C\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\If_C\If_C\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\If_C\If_C\bin\Debug\If_C.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\If_C\If_C\bin\Debug\If_C.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\If_C\If_C\obj\x86\Debug\If_C.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_proveit01_files\If_C\If_C\obj\x86\Debug\If_C.pdb

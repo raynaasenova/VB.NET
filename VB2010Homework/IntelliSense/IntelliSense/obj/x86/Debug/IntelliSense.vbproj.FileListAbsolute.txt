@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\IntelliSense\IntelliSense\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\IntelliSense\IntelliSense\obj\x86\Debug\IntelliSense.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\IntelliSense\IntelliSense\obj\x86\Debug\IntelliSense.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\IntelliSense\IntelliSense\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\IntelliSense\IntelliSense\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\IntelliSense\IntelliSense\bin\Debug\IntelliSense.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\IntelliSense\IntelliSense\bin\Debug\IntelliSense.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\IntelliSense\IntelliSense\bin\Debug\IntelliSense.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\IntelliSense\IntelliSense\obj\x86\Debug\IntelliSense.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\IntelliSense\IntelliSense\obj\x86\Debug\IntelliSense.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\IntelliSense\IntelliSense\obj\x86\Debug\IntelliSense.pdb

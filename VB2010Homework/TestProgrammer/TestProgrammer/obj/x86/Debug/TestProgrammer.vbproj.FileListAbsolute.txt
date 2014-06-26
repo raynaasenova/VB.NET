@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit02_files\TestProgrammer\TestProgrammer\bin\Debug\TestProgrammer.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit02_files\TestProgrammer\TestProgrammer\bin\Debug\TestProgrammer.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit02_files\TestProgrammer\TestProgrammer\bin\Debug\TestProgrammer.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit02_files\TestProgrammer\TestProgrammer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit02_files\TestProgrammer\TestProgrammer\obj\x86\Debug\TestProgrammer.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit02_files\TestProgrammer\TestProgrammer\obj\x86\Debug\TestProgrammer.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit02_files\TestProgrammer\TestProgrammer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit02_files\TestProgrammer\TestProgrammer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit02_files\TestProgrammer\TestProgrammer\obj\x86\Debug\TestProgrammer.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit02_files\TestProgrammer\TestProgrammer\obj\x86\Debug\TestProgrammer.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit02_files\TestProgrammer\TestProgrammer\obj\x86\Debug\TestProgrammer.pdb

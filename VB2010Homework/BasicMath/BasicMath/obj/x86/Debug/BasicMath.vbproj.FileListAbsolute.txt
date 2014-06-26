@@ -1,0 +1,11 @@
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\BasicMath\BasicMath\bin\Debug\BasicMath.exe
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\BasicMath\BasicMath\bin\Debug\BasicMath.xml
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\BasicMath\BasicMath\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\BasicMath\BasicMath\obj\x86\Debug\BasicMath.Form1.resources
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\BasicMath\BasicMath\obj\x86\Debug\BasicMath.Resources.resources
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\BasicMath\BasicMath\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\BasicMath\BasicMath\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\BasicMath\BasicMath\obj\x86\Debug\BasicMath.exe
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\BasicMath\BasicMath\obj\x86\Debug\BasicMath.xml
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\BasicMath\BasicMath\obj\x86\Debug\BasicMath.pdb

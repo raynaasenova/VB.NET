@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Promenlivi\Promenlivi\bin\Debug\Promenlivi.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Promenlivi\Promenlivi\bin\Debug\Promenlivi.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Promenlivi\Promenlivi\bin\Debug\Promenlivi.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Promenlivi\Promenlivi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Promenlivi\Promenlivi\obj\x86\Debug\Promenlivi.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Promenlivi\Promenlivi\obj\x86\Debug\Promenlivi.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Promenlivi\Promenlivi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Promenlivi\Promenlivi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Promenlivi\Promenlivi\obj\x86\Debug\Promenlivi.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Promenlivi\Promenlivi\obj\x86\Debug\Promenlivi.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Promenlivi\Promenlivi\obj\x86\Debug\Promenlivi.pdb

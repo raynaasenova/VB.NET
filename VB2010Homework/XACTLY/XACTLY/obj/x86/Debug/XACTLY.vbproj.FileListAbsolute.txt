@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\XACTLY\XACTLY\bin\Debug\XACTLY.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\XACTLY\XACTLY\bin\Debug\XACTLY.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\XACTLY\XACTLY\bin\Debug\XACTLY.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\XACTLY\XACTLY\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\XACTLY\XACTLY\obj\x86\Debug\XACTLY.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\XACTLY\XACTLY\obj\x86\Debug\XACTLY.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\XACTLY\XACTLY\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\XACTLY\XACTLY\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\XACTLY\XACTLY\obj\x86\Debug\XACTLY.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\XACTLY\XACTLY\obj\x86\Debug\XACTLY.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\XACTLY\XACTLY\obj\x86\Debug\XACTLY.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\XACTLY\XACTLY\obj\x86\Debug\XACTLY.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\XACTLY\XACTLY\obj\x86\Debug\XACTLY.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_proveit02_files\XACTLY\XACTLY\obj\x86\Debug\XACTLY.pdb

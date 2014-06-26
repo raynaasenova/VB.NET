@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\IfThen2\IfThen2\bin\Debug\IfThen2.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\IfThen2\IfThen2\bin\Debug\IfThen2.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\IfThen2\IfThen2\bin\Debug\IfThen2.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\IfThen2\IfThen2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\IfThen2\IfThen2\obj\x86\Debug\IfThen2.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\IfThen2\IfThen2\obj\x86\Debug\IfThen2.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\IfThen2\IfThen2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\IfThen2\IfThen2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\IfThen2\IfThen2\obj\x86\Debug\IfThen2.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\IfThen2\IfThen2\obj\x86\Debug\IfThen2.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\IfThen2\IfThen2\obj\x86\Debug\IfThen2.pdb

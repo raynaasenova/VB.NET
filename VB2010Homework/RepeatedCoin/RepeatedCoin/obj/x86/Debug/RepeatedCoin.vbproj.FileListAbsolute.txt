@@ -1,0 +1,11 @@
+D:\R_VBA\Raya_cours\11_proveit02_files\RepeatedCoin\RepeatedCoin\bin\Debug\RepeatedCoin.exe
+D:\R_VBA\Raya_cours\11_proveit02_files\RepeatedCoin\RepeatedCoin\bin\Debug\RepeatedCoin.pdb
+D:\R_VBA\Raya_cours\11_proveit02_files\RepeatedCoin\RepeatedCoin\bin\Debug\RepeatedCoin.xml
+D:\R_VBA\Raya_cours\11_proveit02_files\RepeatedCoin\RepeatedCoin\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\R_VBA\Raya_cours\11_proveit02_files\RepeatedCoin\RepeatedCoin\obj\x86\Debug\RepeatedCoin.Form1.resources
+D:\R_VBA\Raya_cours\11_proveit02_files\RepeatedCoin\RepeatedCoin\obj\x86\Debug\RepeatedCoin.Resources.resources
+D:\R_VBA\Raya_cours\11_proveit02_files\RepeatedCoin\RepeatedCoin\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\R_VBA\Raya_cours\11_proveit02_files\RepeatedCoin\RepeatedCoin\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\R_VBA\Raya_cours\11_proveit02_files\RepeatedCoin\RepeatedCoin\obj\x86\Debug\RepeatedCoin.exe
+D:\R_VBA\Raya_cours\11_proveit02_files\RepeatedCoin\RepeatedCoin\obj\x86\Debug\RepeatedCoin.xml
+D:\R_VBA\Raya_cours\11_proveit02_files\RepeatedCoin\RepeatedCoin\obj\x86\Debug\RepeatedCoin.pdb

@@ -1,0 +1,13 @@
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\12_proveit02_solution\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.exe
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\12_proveit02_solution\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.pdb
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\12_proveit02_solution\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.xml
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\12_proveit02_solution\FortuneTeller\FortuneTeller\obj\Debug\ResolveAssemblyReference.cache
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\12_proveit02_solution\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.Form1.resources
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\12_proveit02_solution\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.Resources.resources
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\12_proveit02_solution\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.vbproj.GenerateResource.Cache
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\12_proveit02_solution\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.exe
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\12_proveit02_solution\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.xml
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\12_proveit02_solution\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.pdb
+C:\Users\Jacqueline\Desktop\2010 CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\12_proveit02_files\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.exe
+C:\Users\Jacqueline\Desktop\2010 CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\12_proveit02_files\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.xml
+C:\Users\Jacqueline\Desktop\2010 CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\12_proveit02_files\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.pdb

@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_challenge_files\TossUp\TossUp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_challenge_files\TossUp\TossUp\obj\x86\Debug\TossUp.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_challenge_files\TossUp\TossUp\obj\x86\Debug\TossUp.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_challenge_files\TossUp\TossUp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_challenge_files\TossUp\TossUp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_challenge_files\TossUp\TossUp\bin\Debug\TossUp.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_challenge_files\TossUp\TossUp\bin\Debug\TossUp.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_challenge_files\TossUp\TossUp\bin\Debug\TossUp.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_challenge_files\TossUp\TossUp\obj\x86\Debug\TossUp.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_challenge_files\TossUp\TossUp\obj\x86\Debug\TossUp.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\09_challenge_files\TossUp\TossUp\obj\x86\Debug\TossUp.pdb

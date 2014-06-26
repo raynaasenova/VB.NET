@@ -1,0 +1,11 @@
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_proveit02_files\PrimeNumbers\PrimeNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_proveit02_files\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.Form1.resources
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_proveit02_files\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.Resources.resources
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_proveit02_files\PrimeNumbers\PrimeNumbers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_proveit02_files\PrimeNumbers\PrimeNumbers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_proveit02_files\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_proveit02_files\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_proveit02_files\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.xml
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_proveit02_files\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.exe
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_proveit02_files\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.xml
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_proveit02_files\PrimeNumbers\PrimeNumbers\obj\x86\Debug\PrimeNumbers.pdb

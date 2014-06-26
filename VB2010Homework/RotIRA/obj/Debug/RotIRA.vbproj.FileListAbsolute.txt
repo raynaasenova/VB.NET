@@ -1,0 +1,27 @@
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\bin\Debug\RotIRA.exe
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\bin\Debug\RotIRA.pdb
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\bin\Debug\RotIRA.xml
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\ResolveAssemblyReference.cache
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\RotIRA.Form1.resources
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\RotIRA.Resources.resources
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\RotIRA.vbproj.GenerateResource.Cache
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\RotIRA.exe
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\RotIRA.xml
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\RotIRA.pdb
+C:\Users\Jacqueline\Desktop\CodeRules\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\RotIRA.exe
+C:\Users\Jacqueline\Desktop\CodeRules\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\RotIRA.xml
+C:\Users\Jacqueline\Desktop\CodeRules\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\RotIRA.pdb
+C:\Users\Jacqueline\Desktop\2010 CodeRules\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\RotIRA.exe
+C:\Users\Jacqueline\Desktop\2010 CodeRules\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\RotIRA.xml
+C:\Users\Jacqueline\Desktop\2010 CodeRules\Instructormaterials\Teacher's Guide\prove_it challenges solutions\10_challenge_solution\RotIRA\RotIRA\obj\Debug\RotIRA.pdb
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_challenge_files\RotIRA\obj\Debug\RotIRA.exe
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_challenge_files\RotIRA\obj\Debug\RotIRA.xml
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_challenge_files\RotIRA\obj\Debug\RotIRA.pdb
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_challenge_files\RotIRA\bin\Debug\RotIRA.exe
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_challenge_files\RotIRA\bin\Debug\RotIRA.pdb
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_challenge_files\RotIRA\bin\Debug\RotIRA.xml
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_challenge_files\RotIRA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_challenge_files\RotIRA\obj\Debug\RotIRA.Form1.resources
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_challenge_files\RotIRA\obj\Debug\RotIRA.Resources.resources
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_challenge_files\RotIRA\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Downloads\Documents\Visual Studio 2010\Raya_cours\10_challenge_files\RotIRA\obj\Debug\GenerateResource.write.1.tlog

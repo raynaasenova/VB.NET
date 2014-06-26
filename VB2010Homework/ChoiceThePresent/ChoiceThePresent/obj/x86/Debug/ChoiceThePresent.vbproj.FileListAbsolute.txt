@@ -1,0 +1,20 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\ChoiceThePresent\ChoiceThePresent\bin\Debug\ChoiceThePresent.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\ChoiceThePresent\ChoiceThePresent\bin\Debug\ChoiceThePresent.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\ChoiceThePresent\ChoiceThePresent\bin\Debug\ChoiceThePresent.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\ChoiceThePresent.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\ChoiceThePresent.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\ChoiceThePresent.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\ChoiceThePresent.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\08_proveit01_files\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\ChoiceThePresent.pdb
+D:\zaZapis\R_VBA\Raya_cours\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\ChoiceThePresent.exe
+D:\zaZapis\R_VBA\Raya_cours\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\ChoiceThePresent.xml
+D:\zaZapis\R_VBA\Raya_cours\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\ChoiceThePresent.pdb
+D:\zaZapis\R_VBA\Raya_cours\ChoiceThePresent\ChoiceThePresent\bin\Debug\ChoiceThePresent.exe
+D:\zaZapis\R_VBA\Raya_cours\ChoiceThePresent\ChoiceThePresent\bin\Debug\ChoiceThePresent.pdb
+D:\zaZapis\R_VBA\Raya_cours\ChoiceThePresent\ChoiceThePresent\bin\Debug\ChoiceThePresent.xml
+D:\zaZapis\R_VBA\Raya_cours\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\ChoiceThePresent.Form1.resources
+D:\zaZapis\R_VBA\Raya_cours\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\ChoiceThePresent.Resources.resources
+D:\zaZapis\R_VBA\Raya_cours\ChoiceThePresent\ChoiceThePresent\obj\x86\Debug\ChoiceThePresent.vbproj.GenerateResource.Cache

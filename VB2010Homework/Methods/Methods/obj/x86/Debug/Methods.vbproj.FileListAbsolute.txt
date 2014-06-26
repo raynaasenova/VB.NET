@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Methods\Methods\bin\Debug\Methods.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Methods\Methods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Methods\Methods\obj\x86\Debug\Methods.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Methods\Methods\obj\x86\Debug\Methods.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Methods\Methods\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Methods\Methods\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Methods\Methods\obj\x86\Debug\Methods.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Methods\Methods\obj\x86\Debug\Methods.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\Methods\Methods\obj\x86\Debug\Methods.pdb

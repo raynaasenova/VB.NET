@@ -1,0 +1,11 @@
+D:\R_VBA\Raya_cours\StreamText\StreamText\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\R_VBA\Raya_cours\StreamText\StreamText\obj\x86\Debug\StreamText.Form1.resources
+D:\R_VBA\Raya_cours\StreamText\StreamText\obj\x86\Debug\StreamText.Resources.resources
+D:\R_VBA\Raya_cours\StreamText\StreamText\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\R_VBA\Raya_cours\StreamText\StreamText\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\R_VBA\Raya_cours\StreamText\StreamText\bin\Debug\StreamText.exe
+D:\R_VBA\Raya_cours\StreamText\StreamText\bin\Debug\StreamText.pdb
+D:\R_VBA\Raya_cours\StreamText\StreamText\bin\Debug\StreamText.xml
+D:\R_VBA\Raya_cours\StreamText\StreamText\obj\x86\Debug\StreamText.exe
+D:\R_VBA\Raya_cours\StreamText\StreamText\obj\x86\Debug\StreamText.xml
+D:\R_VBA\Raya_cours\StreamText\StreamText\obj\x86\Debug\StreamText.pdb

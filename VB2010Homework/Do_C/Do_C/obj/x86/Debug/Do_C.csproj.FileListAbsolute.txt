@@ -1,0 +1,9 @@
+D:\R_VBA\Raya_cours\11_proveit01_files\Do_C\Do_C\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\R_VBA\Raya_cours\11_proveit01_files\Do_C\Do_C\obj\x86\Debug\Do_C.Form1.resources
+D:\R_VBA\Raya_cours\11_proveit01_files\Do_C\Do_C\obj\x86\Debug\Do_C.Properties.Resources.resources
+D:\R_VBA\Raya_cours\11_proveit01_files\Do_C\Do_C\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\R_VBA\Raya_cours\11_proveit01_files\Do_C\Do_C\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\R_VBA\Raya_cours\11_proveit01_files\Do_C\Do_C\bin\Debug\Do_C.exe
+D:\R_VBA\Raya_cours\11_proveit01_files\Do_C\Do_C\bin\Debug\Do_C.pdb
+D:\R_VBA\Raya_cours\11_proveit01_files\Do_C\Do_C\obj\x86\Debug\Do_C.exe
+D:\R_VBA\Raya_cours\11_proveit01_files\Do_C\Do_C\obj\x86\Debug\Do_C.pdb

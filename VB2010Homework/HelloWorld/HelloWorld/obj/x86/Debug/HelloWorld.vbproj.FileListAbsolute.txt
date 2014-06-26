@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.xml
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb

@@ -1,0 +1,24 @@
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\02_challenge_solution\Fast Food\Fast Food\bin\Debug\Fast Food.exe
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\02_challenge_solution\Fast Food\Fast Food\bin\Debug\Fast Food.pdb
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\02_challenge_solution\Fast Food\Fast Food\bin\Debug\Fast Food.xml
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\02_challenge_solution\Fast Food\Fast Food\obj\Debug\ResolveAssemblyReference.cache
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\02_challenge_solution\Fast Food\Fast Food\obj\Debug\Fast_Food.Form1.resources
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\02_challenge_solution\Fast Food\Fast Food\obj\Debug\Fast_Food.Resources.resources
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\02_challenge_solution\Fast Food\Fast Food\obj\Debug\Fast Food.vbproj.GenerateResource.Cache
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\02_challenge_solution\Fast Food\Fast Food\obj\Debug\Fast Food.exe
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\02_challenge_solution\Fast Food\Fast Food\obj\Debug\Fast Food.xml
+G:\Code Rules 2008\Instructormaterials\Teacher's Guide\prove_it challenges solutions\02_challenge_solution\Fast Food\Fast Food\obj\Debug\Fast Food.pdb
+G:\Code Rules 2008\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\obj\Debug\Fast Food.exe
+G:\Code Rules 2008\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\obj\Debug\Fast Food.xml
+G:\Code Rules 2008\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\obj\Debug\Fast Food.pdb
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\obj\Debug\Fast Food.exe
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\obj\Debug\Fast Food.xml
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\obj\Debug\Fast Food.pdb
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\bin\Debug\Fast Food.exe
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\bin\Debug\Fast Food.pdb
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\bin\Debug\Fast Food.xml
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\obj\Debug\Fast_Food.Form1.resources
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\obj\Debug\Fast_Food.Resources.resources
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jacqueline\Desktop\CodeRules\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\02_challenge_instructions\Fast Food\Fast Food\obj\Debug\GenerateResource.write.1.tlog

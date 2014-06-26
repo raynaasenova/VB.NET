@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\GarbageOut\GarbageOut\bin\Debug\GarbageOut.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\GarbageOut\GarbageOut\bin\Debug\GarbageOut.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\GarbageOut\GarbageOut\bin\Debug\GarbageOut.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\GarbageOut\GarbageOut\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\GarbageOut\GarbageOut\obj\x86\Debug\GarbageOut.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\GarbageOut\GarbageOut\obj\x86\Debug\GarbageOut.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\GarbageOut\GarbageOut\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\GarbageOut\GarbageOut\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\GarbageOut\GarbageOut\obj\x86\Debug\GarbageOut.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\GarbageOut\GarbageOut\obj\x86\Debug\GarbageOut.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\GarbageOut\GarbageOut\obj\x86\Debug\GarbageOut.pdb

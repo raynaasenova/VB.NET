@@ -1,0 +1,10 @@
+D:\zaZapis\R_VBA\Raya_cours\AddNewItem\AddNewItem\bin\Debug\AddNewItem.exe
+D:\zaZapis\R_VBA\Raya_cours\AddNewItem\AddNewItem\bin\Debug\AddNewItem.pdb
+D:\zaZapis\R_VBA\Raya_cours\AddNewItem\AddNewItem\bin\Debug\AddNewItem.xml
+D:\zaZapis\R_VBA\Raya_cours\AddNewItem\AddNewItem\obj\x86\Debug\AddNewItem.Form1.resources
+D:\zaZapis\R_VBA\Raya_cours\AddNewItem\AddNewItem\obj\x86\Debug\AddNewItem.Resources.resources
+D:\zaZapis\R_VBA\Raya_cours\AddNewItem\AddNewItem\obj\x86\Debug\AddNewItem.vbproj.GenerateResource.Cache
+D:\zaZapis\R_VBA\Raya_cours\AddNewItem\AddNewItem\obj\x86\Debug\AddNewItem.exe
+D:\zaZapis\R_VBA\Raya_cours\AddNewItem\AddNewItem\obj\x86\Debug\AddNewItem.xml
+D:\zaZapis\R_VBA\Raya_cours\AddNewItem\AddNewItem\obj\x86\Debug\AddNewItem.pdb
+D:\zaZapis\R_VBA\Raya_cours\AddNewItem\AddNewItem\obj\x86\Debug\AddNewItem.AboutBox1.resources

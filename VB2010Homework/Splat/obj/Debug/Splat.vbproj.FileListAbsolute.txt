@@ -1,0 +1,15 @@
+G:\Code Rules 2008\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\06_challenge_instructions\Splat\Splat\obj\Debug\ResolveAssemblyReference.cache
+G:\Code Rules 2008\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\06_challenge_instructions\Splat\Splat\obj\Debug\Splat.Form1.resources
+G:\Code Rules 2008\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\06_challenge_instructions\Splat\Splat\obj\Debug\Splat.Resources.resources
+G:\Code Rules 2008\StudentMaterials\Prove It Challenges\prove_it_challenges_student _files\06_challenge_instructions\Splat\Splat\obj\Debug\Splat.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_challenge_files\Splat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_challenge_files\Splat\obj\Debug\Splat.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_challenge_files\Splat\obj\Debug\Splat.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_challenge_files\Splat\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_challenge_files\Splat\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_challenge_files\Splat\bin\Debug\Splat.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_challenge_files\Splat\bin\Debug\Splat.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_challenge_files\Splat\bin\Debug\Splat.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_challenge_files\Splat\obj\Debug\Splat.exe
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_challenge_files\Splat\obj\Debug\Splat.xml
+C:\Users\USER\Documents\Visual Studio 2010\Raya_cours\06_challenge_files\Splat\obj\Debug\Splat.pdb
